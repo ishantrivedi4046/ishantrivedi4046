@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishan Trivedi</h1>
 <h3 align="center">Not your average Software developer from India</h3>
 
+<a href="https://app.daily.dev/astrocoder"><img src="https://api.daily.dev/devcards/v2/6bcLmnZ2hnhD37Vk0cqUx.png?r=iyn&type=default" width="356" alt="Ishan Trivedi's Dev Card"/></a>
+
 <h3 align="left">About me :</h3>
 
 ---
