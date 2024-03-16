@@ -27,6 +27,8 @@
 <a href="https://instagram.com/astro.8046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astro.8046" height="30" width="40" /></a>
   &nbsp;
 <a href="https://www.leetcode.com/ishu_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishu_yash" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.npmjs.com/~ishantrivedi4046" target="blank"><img align="center" src="https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="ishu_yash" height="30" width="40" /></a>
 </p>
 <h3 align="left">Technology Stack and Tools :</h3>
 
